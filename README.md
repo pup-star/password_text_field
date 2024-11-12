@@ -1,6 +1,6 @@
 # double_dogs_password_text_field
 
-A New Password Box Text Field.
+double_dogs is not the dog.
 
 ## Features
 
